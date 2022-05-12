@@ -1,0 +1,15 @@
+.footer {
+    padding: 2rem 1rem;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    align-items: center;
+    .footer__copy a {
+        color:darkorange;
+        font-weight: 700;
+        text-decoration-line: underline;
+        text-decoration-style: wavy;
+        text-decoration: none;
+        
+    }
+}
